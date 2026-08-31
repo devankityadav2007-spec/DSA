@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/devankityadav2007-spec/DSA/tree/master/0735-asteroid-collision) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/devankityadav2007-spec/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/devankityadav2007-spec/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
